@@ -1,1 +1,1 @@
-There are 2 minor test projects here. Both are tictac toe games. One is visually complete, but has no winning or losing condition logic yet, another has a complete logic, but has no visual implementation. 
+A simple TicTacToe game on python. 3 files, where tictictoe_terminal has only input output interactions, but a more detailed gameplay logic; tictactoe_visuals has only a visual gameplay and some terminal output information about the rows and colomns; tictactoe_final has both: a visualized gameplay and a winning condition logic in the terminal output. 
