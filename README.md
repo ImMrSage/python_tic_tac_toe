@@ -1,0 +1,1 @@
+There are 2 minor test projects here. Both are tictac toe games. One is visually complete, but has no winning or losing condition logic yet, another has a complete logic, but has no visual implementation. 
